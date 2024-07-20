@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ansh-jha
-- 👀 I’m interested in business & stock market.
+- 👀 I’m interested in Learning new skills and I like to solve complex problems.
 - 🌱 I’m currently delving into insights of Web Development.
 - 📫 How to reach me ...you can reach me through my github profile and my email.
 - My email id is : anshjha2003@gmail.com.
